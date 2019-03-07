@@ -9,8 +9,7 @@ find_package(catkin REQUIRED
 # generate services in the 'srv' folder
 add_service_files(
   FILES
-  OpenGripper.srv
-  CloseGripper.srv
+  ToggleGripper.srv
   ReadGripperAngle.srv
   ReadSensorData.srv
 )

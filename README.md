@@ -1,9 +1,10 @@
-![alt text](https://www.fp-robotics.com/wp-content/themes/fprobot/img/fp-robotics_logo.png "F&P Robotics AG")
+![alt text](https://www.fp-robotics.com/wp-content/themes/fprobot/img/FP_personal-robotics_logo.png "F&P Robotics AG")
 
 # F&P P-GRIP MESSAGES
 
-Author: Martin Möller (MPM)  
-Compatible with myP versions 1.4.0.(0-1)
+Author: [F&P Robotics AG](https://www.fp-robotics.com)
+
+Compatible with myP versions 1.4 through 1.5.
 
 Service types to access functions of the myP P-Grip add-on through ROS services.
 
@@ -13,6 +14,4 @@ Clone this repo into the `src` directory of your catkin workspace and build it, 
 
 ## Using myP's ROS module
 
-Please have a look at the __**myP ROS Connection Module 1.4.0**__ manual for detailed examples.  
-Should you find any issues, please report them to [support@fp-robotics.com](support@fp-robotics.com).
-
+Please have a look at the __**myP ROS Connection Module**__ manual for detailed examples. Should you find any issues, please report them to [support@fp-robotics.com](support@fp-robotics.com).
